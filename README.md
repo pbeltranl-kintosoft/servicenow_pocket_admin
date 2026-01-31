@@ -1,4 +1,5 @@
-# servicenow_pocket_admin
-Always carry a ServiceNow Admin in your pocket.
+# Pocket Admin for ServiceNow
 
-Report here any issue related to Pocket Admin for ServiceNow
+**Always carry a ServiceNow Admin in your pocket.**
+
+Report here any issue
