@@ -1,5 +1,3 @@
-# Pocket Admin for ServiceNow
-
-**Always carry ServiceNow SQL in your pocket.**
+# SQL MCP for ServiceNow
 
 Report here any issue
